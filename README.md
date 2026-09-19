@@ -2,6 +2,13 @@
 
 Responsywny projekt strony Network Technologies Polska, przygotowany jako samodzielny plik HTML.
 
+## Wersje online
+
+- [Wersja pełna](https://soninmaster.github.io/ntp-redesign/) — `index.html`.
+- [Wersja krótka: one-pager](https://soninmaster.github.io/ntp-redesign/onepager.html) — `onepager.html`: zwięzła oferta, wybrani klienci i kontakt.
+
+Każda wersja zawiera własne style i grafikę SVG. Krótka wersja nie wymaga JavaScriptu.
+
 ## Podgląd
 
 Otwórz `index.html` w przeglądarce. Projekt działa offline i nie wymaga instalowania zależności ani procesu budowania.
